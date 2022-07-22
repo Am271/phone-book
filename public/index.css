@@ -2,6 +2,10 @@ table, th, td {
 	border: 1px solid black;
 }
 
+th:hover, td:hover {
+	background-color: yellow;
+}
+
 img {
 	position: absolute;
 	top: 0;
